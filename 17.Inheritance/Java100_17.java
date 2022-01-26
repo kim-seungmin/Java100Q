@@ -2,9 +2,6 @@ class car{
 	int speed;
 	int passenger;
 	String name;
-	void car(String name){
-		this.name=name;
-	}
 }
 class truck extends car{
 	int carryWeight;
