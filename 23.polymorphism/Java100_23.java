@@ -5,7 +5,7 @@ class student extends human{
 
 class Java100_23{
 	public static void main(String[] args){
-		human james = new human();
+		human james = new student();
 		//james.sayHi();	err
 	}
 }
